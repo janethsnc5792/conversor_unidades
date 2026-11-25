@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    background-color: #eeeeee;
+    text-align: center;
+    margin: 30px;
+}
+
+h1 {
+    color: white;
+    background-color: #b767c4;
+    padding: 20px;
+}
+
+h2 {
+    color: #8d1d7c;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 17px;
+    color: #333333;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    background-color: #c74ce9;
+    color: white;
+    padding: 10px 20px;
+}
